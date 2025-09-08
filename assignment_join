@@ -42,7 +42,7 @@
 -- FROM Students s
 -- JOIN Courses c ON s.student_id = c.student_id;
 
-Delete assignment_join file
+
 
 
 
