@@ -1,0 +1,22 @@
+
+-- use company_dp
+-- select * from employees;
+-- select concat(first_name," ",last_name)as full_name
+-- from employees;
+-- select first_name,substring(first_name,1,4)as short_names from employees;
+-- select job_title,upper(job_title)as lastname_uppercase from employees;
+-- select last_name,lower(last_name)as lastname_uppercase from employees;
+-- select 
+-- concat(upper(first_name),lower(last_name),'sla@com') as email,
+-- substring(job_title,1,5)as job_short from employees;
+-- select * from departments;
+-- select* from employees;
+-- select* from employees;
+-- use company_dp
+-- insert into employees values(111,"AR","RJ","tester",45000,2,'2020-01-01');
+-- select* from employees;
+-- use company_dp
+-- select e.first_name,e.last_name,d.department_name
+-- from employees e
+-- inner join department d
+-- on e.departemnt_id=d.department_id
